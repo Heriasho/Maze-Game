@@ -25,7 +25,7 @@ Players who touch a Yellow Door will be sent back to the beginning.
 Green walls are known as a "Key" which, when touched, disable the Yellow Doors.
 Player will not be sent back to the beginning if they touch the Key.
 
-*Version 0.7.1*////
+*Version 0.7.1*
 Colors of doors have been updated.
 Yellow Doors are changed to Blue Doors.
 Keys have been updated to distinish them from walls.
